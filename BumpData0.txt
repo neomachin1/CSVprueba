@@ -1,0 +1,9 @@
+VIA  : 	NanuG
+KM   : 	5421
+LONG : 	500
+HORA : 	2:25:17
+FECHA: 	12/08/24
+LATITUD : 	107.9169 S
+LONGITUD : 	7611.9323 W
+----------------------------------------------------
+BUMP1	BUMP2	HORA		LATITUD	LONGITUD

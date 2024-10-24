@@ -1,0 +1,10 @@
+VIA  : 	NanuG
+KM   : 	7070
+LONG : 	700
+HORA : 	13:50:53
+FECHA: 	13/08/24
+LATITUD : 	107.9064 S
+LONGITUD : 	7611.930 W
+----------------------------------------------------
+BUMP1	BUMP2	HORA		LATITUD	LONGITUD
+0	0	13:50:57	107.9065 S	1192.99255 W
